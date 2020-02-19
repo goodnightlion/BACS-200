@@ -35,18 +35,21 @@
             </a>
             - Project #2 - WordPress Blog
         </li>
+       
         <li>
             <a href="02">
                 Week #2
             </a>
             - Project #2 - Inspire Me
         </li>
+       
         <li>
             <a href="03">
                 Week #3
             </a>
             - Project #3 - Amuse Me
         </li>
+        
         <li>
             <a href="04">
                 Week #4
