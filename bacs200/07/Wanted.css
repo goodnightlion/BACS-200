@@ -1,10 +1,39 @@
-h1 {
-    color: black;
-    text-align: center;
-    background-color: red;
-    font-size: 3em;
+
+body {
+    background-color: black;
 }
-h2 {
-    font-size: 1.2em;
+
+header {
+    border: solid 3px darkblue;
+    background-color: red;
     text-align: center;
+    font-family: Cursive, Lucida Console;
+    border-radius: 25px;
+    width: 900px;
+    margin: auto;
+
+}
+
+main {
+    border: solid 3px darkblue;
+    background-color: lightcyan;
+    font-family: Cursive, Lucida Console;
+    border-radius: 25px;
+    width: 900px;
+    margin: auto;
+    margin-top: 25px;
+
+}
+
+h1 {
+    font-size: 50px;
+    padding: 1px;
+    text-align: center;
+}
+
+aside {
+    background-color: lightcyan;
+    border: solid 2px;
+    padding-right: 300px;
+    float: right
 }
